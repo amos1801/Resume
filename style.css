@@ -88,6 +88,10 @@ h3 {
   margin: 30px;
   padding: 50px;
   color: black;
+  border: solid;
+  border-radius: 15px;
+  height: 2000px;
+  width: 350px;
 }
 #Head {
   font-size: 40px;
