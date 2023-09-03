@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans", sans-serif;
+}
+
+body {
+  
+}
+
+#logo {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  border: solid;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+}
+
+h3 {
+  font-size: 25px;
+  text-decoration: underline;
+  padding: 0px;
+}
+
+#box1, #box2 {
+  height: 100px;
+  width: 100px;
+  border: solid;
+  display: inline-flex;
+  text-align: center;
+  align-content: center;
+  margin: 25px;
+  padding: 30px;
+  background-color: orange;
+  border-radius: 15px;
+}
+
+#box3, #box4 {
+  display: block;
+  height: 100px;
+  width: 100px;
+  border: solid;
+  display: inline-flex;
+  text-align: center;
+  align-content: center;
+  margin: 25px;
+  padding: 30px;
+  background-color: orange;
+  border-radius: 15px;
+}
+
+#box5 {
+  display: block;
+  height: 100px;
+  width: 100px;
+  border: solid;
+  display: inline-flex;
+  text-align: center;
+  align-content: center;
+  margin: 25px;
+  padding: 30px;
+  background-color: orange;
+  border-radius: 15px;
+}
+ section {
+   padding: 30px;
+   border: solid;
+   border-radius: 15px;
+   margin: 25px;
+   border-color: green;
+   height: 640px;
+   width: 450px;
+   padding: 35px;
+   background-color: lightseagreen;
+ }
+ 
+
+
+
+
+#noticepage {
+  margin: 30px;
+  padding: 50px;
+  border: solid;
+  border-radius: 15px;
+  color: black;
+  height: 1200px;
+  width: 400px;
+}
+#Head {
+  font-size: 40px;
+  padding: 25px;
+}
+#date {
+  color: black;
+  text-align: center;
+  padding: 25px;
+}
+#line2 {
+  color: black;
+  text-align: center;
+  border: solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+#Para {
+  padding: 15px;
+  color: black;
+  font-size: 25px;
+}
+#pri {
+  font-size: 20px;
+  font-style: italic;
+}
