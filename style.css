@@ -88,10 +88,6 @@ h3 {
   margin: 30px;
   padding: 50px;
   color: black;
-  border: solid;
-  border-radius: 15px;
-  height: 2000px;
-  width: 350px;
 }
 #Head {
   font-size: 40px;
@@ -117,4 +113,62 @@ h3 {
 #pri {
   font-size: 20px;
   font-style: italic;
+}
+
+#conDiv {
+  padding: 25px;
+  color: white;
+  background-color: silver;
+  border: solid;
+  border-radius: 10px;
+  height: 200px;
+  width: 350px;
+  margin: 25px;
+}
+
+#contact {
+  background-color: gray;
+  padding: 20px;
+  margin: 15px;
+  border: solid;
+  border-radius: 10px;
+  height: 200px;
+  width: 350px;
+}
+
+#conhead {
+  padding: 30px;
+  margin: 30px;
+  color: black;
+  text-align: center;
+  height: 70px;
+  width: 250px;
+  border: double;
+  border-radius: 10px;
+}
+
+#paracon {
+  padding: 30px;
+  margin: 30px;
+  color: black;
+  text-align: center;
+  height: 200px;
+  width: 250px;
+  border: double;
+  border-radius: 10px;
+  background: rgba(100, 100, 50, 0.75)
+}
+
+
+#helpbutton {
+  width: 90px;
+  background: transparent;
+  padding: 5px;
+  margin: 10px;
+  background: rgba(255,255,100,0.25)
+}
+
+#geth {
+  text-decoration: none;
+  font-size: 20px;
 }
