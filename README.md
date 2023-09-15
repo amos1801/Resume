@@ -1,2 +1,2 @@
-# BNT ST. MARY SCHOOL 
+# CodeWithAmos 
 My resume of web page
